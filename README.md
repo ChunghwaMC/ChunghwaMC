@@ -8,3 +8,5 @@ ChunghwaMC (中華麥塊, chmc) is a Taiwanese Minecraft server organization ope
 - 華麥百科 / Wiki: https://chunghwamc.com/wiki/
 - 伺服器位址 / Server: mc.chunghwamc.com
 - API: https://chunghwamc.com/api-docs
+
+本 repo 由中華麥塊 (ChunghwaMC) 以 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 授權。
